@@ -2,6 +2,7 @@
 <title>Stefan Hübner's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Traveler (Level 1)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
 <item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
 </channel></rss>
