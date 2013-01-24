@@ -2,6 +2,7 @@
 <title>Stefan Hübner's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Banker (Level 1)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Apprentice Merchant (Level 2)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Apprentice Traveler (Level 3)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Homeowner</title><description>Set global email address using git config.</description></item>
