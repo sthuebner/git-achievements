@@ -2,6 +2,7 @@
 <title>Stefan Hübner's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Traveler (Level 6)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Traveler (Level 5)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Traveler (Level 4)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Apprentice Architect (Level 1)</title><description>Created a new repository with git init.</description></item>
